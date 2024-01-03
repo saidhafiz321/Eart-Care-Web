@@ -36,6 +36,7 @@ Earth Care adalah platform online yang didesain untuk menyediakan informasi komp
 
 
 **Mobile:**
+
 ![Screenshot_20231228-130157](https://github.com/saidhafiz321/Featur/assets/85662790/a8ec5183-e803-475c-af75-86cbfc172f3f)
 
 
